@@ -1,0 +1,4 @@
+Access attempt to /dashboard by user
+Access attempt to /dashboard/nonExistingPage by admin
+Access attempt to /dashboard by admin
+Access attempt to /home by user
