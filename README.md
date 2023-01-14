@@ -9,3 +9,5 @@ To-Do from Design Practices class
  Java 17 and SDK 17 were used to build this project.
  
  To run on Intellij it is necessary to go to the Main file and press the play button on the top of the IDE.
+
+The Main file and the rest of the project is on the following Path: TP/src/com/company
